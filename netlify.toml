@@ -1,6 +1,6 @@
 [build]
     publish = "public"
-    command = "echo No build command"
+    command = "npm install node-fetch prompt"
     node_bundler = "esbuild"
 
 [dev]
